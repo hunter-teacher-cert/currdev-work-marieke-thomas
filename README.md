@@ -1,6 +1,6 @@
-#### Last name:
-#### First name:
-#### Github username:
+#### Last name: Thomas
+#### First name: Marieke
+#### Github username: marieke-thomas
 
 #### Instructions:
 Fill out the top of this form, commit and push it back to GitHub.
