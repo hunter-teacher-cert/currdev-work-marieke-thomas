@@ -27,11 +27,25 @@ Possible responses:
 * The computer is comparing the current picture with the training pictures. If in the training pictures, you happened to hold your hand closer for "rock" than for "scissors", then when someone else tries to do "scissors" but holds their hand too close, the computer may mischaracterize it as "rock" instead.
 * Garbage in, garbage out: If the data a machine learns from is flawed, the artificial intelligence will be flawed.
 
-5. 
+5. Video: AI, Ain't I A Woman? - Joy Buolamwini
+https://www.youtube.com/watch?v=QxuyfWoVV98
+AI frequently misgenders black women specifically. This is partially because of a lack of black women represented in the training data used to create the AI.
+
+6. Pair share: What is your reaction to the video?
+
+8. Class discussion: What are other ways that this bias in facial recognition technology could be harmful?
+Possible resonses:
+* Use by police-- could lead to the wrong person being convicted of a crime
+* etc.
+
+8. Pair share: One proposal has been to train the AI on a less biased sample by using pictures from the DMV rather than images submitted voluntarily. Do you think that Facial Recognition AI should be created this way? Why/why not?
+
+9. Written response: Students respond to the same prompt in a paragraph response
 
 ### Acknowledgement
 This is a lesson that I originally learned about from Marisa Schuman.
 
 ## How Lesson Relates to Standard 9-12.IC.1
+
 
 ## How Lesson Relates to Standard 9-12.IC.3
