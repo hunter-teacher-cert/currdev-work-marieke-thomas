@@ -38,7 +38,12 @@ Possible resonses:
 * Use by police-- could lead to the wrong person being convicted of a crime
 * etc.
 
-8. Pair share: One proposal has been to train the AI on a less biased sample by using pictures from the DMV rather than images submitted voluntarily. Do you think that Facial Recognition AI should be created this way? Why/why not?
+8. Class discussion: What are ways that facial recognition technology could be helpful?
+* Tagging images on social media
+* Could be used to replace normal lock and keys
+* etc.
+
+10. Pair share: One proposal has been to train the AI on a less biased sample by using pictures from the DMV rather than images submitted voluntarily. Do you think that facial recognition AI should be created this way? Why/why not?
 
 9. Written response: Students respond to the same prompt in a paragraph response
 
@@ -46,6 +51,10 @@ Possible resonses:
 This is a lesson that I originally learned about from Marisa Schuman.
 
 ## How Lesson Relates to Standard 9-12.IC.1
+9-12.IC.1 Evaluate the impact of computing technologies on equity, access, and influence in a global society.
 
+This lesson is focused on facial recognition AI and its impact on society. Students will discuss how this technology can perpetuate and exacerbate inequality by replicating any biases in its training data. In particular, facial recognition AI disproportionately misgenders black women due to a much smaller sample size of images in the training data, leading to inequities in who is represented in the software. Students discuss the lack of access for black women to use this technology as opposed to others and how this is harmful. Students discuss how this technology can lend influence to certain groups, like the police when testifying to a jury. Students discuss both the harms that stem from biased facial recognition AI as well as the potential benefits from the technology.
 
 ## How Lesson Relates to Standard 9-12.IC.3
+9-12.IC.3 Debate issues of ethics related to real world computing technologies.
+
