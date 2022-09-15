@@ -1,5 +1,5 @@
 # Curriculum Comparison
-I will be comparing the curriculum that I use for my Arduino-based Electrical Engineering class with the "Electrical Foundations with Arduino" curriculum from CS-STEM Network, which is by Carnegie Mellon Robotics Academy.
+I will be comparing the curriculum that I use for my Arduino-based Electrical Engineering class with the "Electrical Foundations with Arduino" curriculum from CS-STEM Network, which is by Carnegie Mellon Robotics Academy, which can be found here: https://www.cs2n.org/u/track_progress?id=402
 
 ## Major Similarities
 * Both curricula start the year with a unit on basic circuits (in the CS-STEM version it is called "Wiring and Circuits"). In both cases, the first lesson is on the simplest possible circuit. In this unit, both curricula discuss short circuits and switches. Both had a mini-project using electical tape.
@@ -18,18 +18,9 @@ I will be comparing the curriculum that I use for my Arduino-based Electrical En
 
 ## Comparative Strengths and Weaknesses
 * My curriculum involves some more artistic projects and has more of a STEAM emphasis.
-* The CS-STEM curriculum emphasizes the basics in a very clear way and spends more time on them. I think this can be both a strength and a weakness depending on the student population. I believe that the CS-STEM curriculum is intended for students with less background in physics than my course, so this emphasis on the basics is really helpful. On the other hand, at my school students are required to take Regents Physics (or AP) and so this section of the course might seem tedious and uninteresting. Thus I have tried to emphasize more complex systems and challenges in my curriculum. I believe this would be a weakness if my curriculum were used in a different school, as students would be missing the opportunity to really develop a strong understanding of several key ideas when it comes to circuits.
+* The CS-STEM curriculum emphasizes the basics in a very clear way and spends more time on them. I think this can be both a strength and a weakness depending on the student population. I believe that the CS-STEM curriculum is intended for students with less background in physics than my course, so this emphasis on the basics is really helpful. On the other hand, at my school students are required to take Regents Physics (or AP) and so this section of the course might seem tedious and uninteresting. Thus I have tried to emphasize more complex systems and challenge problems in my curriculum. I believe this would be a weakness if my curriculum were used in a different school, as students would be missing the opportunity to really develop a strong understanding of several key ideas when it comes to circuits.
+* Relatedly, the projects in the CS-STEM curriculum are more scaffolded whereas my projects are more open-ended. I love open-ended projects because they really allow students to flex their creativity and design skills, and every group ends up creating a unique project. Hoever, this requires students to be much more self-sufficient and be able to troubleshoot problems that even I might not know the answers to, which requires a high level of maturity on the part of the students. My curriculum works for my group of high school seniors, but for students even 1 year younger, I believe that they may need more supports and more guided projects as we see in the CS-STEM curriculum.
 
-
-
-
-Compare the curriculum for a CS class you currently/will/have recently taught with a pre-packaged curriculum for the same course (or a course with similar focus).
-If you teach CSA or CSP, you could use a different version of that course.
-For other courses, look around for pre-packaged courses with similar aims. Many of the Curriculum providers we looked at for AP CSP also provide intro courses at the least.
-Alternatively: Elementary school teachers that cannot find anything similar to compare to, or masters students may opt to compare two of the APCSP curricula that were linked in the Async portion of the assignment.
-Focus on the following:
-Major differences
-Major similiarities
-Comparative streangths & weaknesses (That is does one cover a topic paticularly better/worse over the other. If both seem euqlly good then no need to comment).
-Would you adopt anything from the curriculum you do not teach into your class if you could? Why?
+## Would you adopt anything from the curriculum you do not teach into your class if you could? Why?
+* I would love to adopt several of the projects into my curriculum, particularly the 2-wheeled cart project. I believe that this project would be really fun for students and capture their interest in engineering. In my course, I have focused more on LEDs and LCS screens as actuators, and I haven't done an Arduino project focused on motors, so I think it would be a great chance for students to see th wider capabilities of Arduinos. It would also be a great link back to the analog circuits portion of my course, where students build their own rudimentary motors. By spiralling back in students' understanding of the underlying mechanics of motors, this project could reinforce students' understanding of an earlier topic (electromagnets) while also helping them see how this topic is useful in the real world.
 
